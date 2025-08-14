@@ -1,1 +1,1 @@
-a
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Prarod/bomsheproject/refs/heads/main/aaa'))()
